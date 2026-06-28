@@ -1,3 +1,5 @@
-Age_Group Memory_Method Baseline_Recall_Accuracy_Strict Post_Recall_Accuracy_Strict Average_NO_Score Average_SA_Score Average_DE_Score
-1 1 0.4 0.8875 4.45454545454545 5.375 6
-1 2 0.233333333333333 0.45 5.90909090909091 4.125 4.33333333333333
+Subject_ID Age_Group Memory_Method Ceiling_Floor BREAK Baseline_Recall_Accuracy_Strict Post_Recall_Accuracy_Strict Average_NO_Score Average_SA_Score Average_DE_Score
+1 1 1 0 0 0.4 0.8875 4.45454545454545 5.375 6
+2 1 2 0 0 0.233333333333333 0.45 5.90909090909091 4.125 4.33333333333333
+3 2 1 0 0 0.3 0.8125 2 5.25 3
+4 2 2 0 0 0.266666666666667 0.875 3.45454545454545 4.625 1.66666666666667
